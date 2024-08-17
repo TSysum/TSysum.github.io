@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+.downloads li:nth-child(3) {
+    display: none;
+}
+.downloads li {
+    width: 135px; /* Adjust this to ensure two buttons fit nicely within 270px */
+}
