@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+ul.downloads {
+    width: 270px; /* Keep or adjust as necessary */
+}
 .downloads li:nth-child(3) {
     display: none;
 }
