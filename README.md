@@ -13,4 +13,9 @@
 #### Commercial Property (_Sept. 2023 - Present_)
 - Involved in various high-value and complex transactions; dealing with drafting, regulatory compliance, enquiries, exchange/completion, and Land Registry submissions. 
 
-
+| Further Skills |
+|:-------------|:------------------|
+| Extensive IT skills         | Attention to detail   |
+| Proficient problem-solving  | Organisational skills |
+| Interpersonal communication | Team collaboration    |
+| Initiative and flexibility  | Logical reasoning     | 
