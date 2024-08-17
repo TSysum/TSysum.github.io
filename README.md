@@ -9,7 +9,7 @@
 
 ## Employment
 ### Solicitor Apprentice @ Hallmark Whatley Hulme (_Sept. 2023 - Present_)**
-## Commercial Property (_Sept. 2023 - Present_)
+#### Commercial Property (_Sept. 2023 - Present_)
 - Involved in various high-value and complex transactions; dealing with drafting, regulatory compliance, enquiries, exchange/completion, and Land Registry submissions. 
 
 
