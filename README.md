@@ -3,6 +3,7 @@
 #### Commercial Property
 
 ## Education
+||
 |:-----------|:---------------------------------------------------------|
 | LLB (Hons) | BPP University - Apprenticeship (_Sept. 2023 - Present_) |
 | A-levels   |    Christopher Whitehead Language College (_June 2023_)  |
