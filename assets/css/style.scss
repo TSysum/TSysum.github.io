@@ -3,11 +3,49 @@
 
 @import "{{ site.theme }}";
 ul.downloads {
-    width: 270px; /* Keep or adjust as necessary */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    width: 270px; /* Total width */
 }
-.downloads li:nth-child(3) {
-    display: none;
-}
+
 .downloads li {
-    width: 135px; /* Adjust this to ensure two buttons fit nicely within 270px */
+    flex: 1; /* Make each button take equal space */
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #e0e0e0;
+    box-sizing: border-box;
+}
+
+.downloads li:last-child {
+    border-right: none; /* Remove right border from the last button */
+}
+
+.downloads a {
+    line-height: 1;
+    font-size: 11px;
+    color: #676767;
+    display: block;
+    text-align: center;
+    padding-top: 6px;
+    height: 34px;
+    text-decoration: none;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.downloads a strong {
+    font-size: 14px;
+    display: block;
+    color: #222;
+}
+
+.downloads li:nth-child(3) {
+    display: none; /* Hide the third button */
 }
